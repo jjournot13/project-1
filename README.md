@@ -23,6 +23,6 @@ We wanted to answer these four questions:
 # Contributions
 Each group member ran the analysis and created visualizations for one of the questions.
 
-- Linda analyzed the impact the level of experience has on salaries.
-- Jenae analyzed the impact of the level of remote work on salaries.
-- Jackie analyzed the impact of company size on type of data professionals they hire.
+- Linda analyzed the impact the level of experience has on salaries. Analysis can be found in the "linda" folder.
+- Jenae analyzed the impact of the level of remote work on salaries. Analysis can be found in the "jenae" folder.
+- Jackie analyzed the impact of company size on type of data professionals they hire. Analysis can be found in the "Jackie" folder.
